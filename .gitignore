@@ -4,3 +4,14 @@ __pycache__/
 *.log
 CLAUDE.md
 DEVELOPMENT_PLAN.md
+
+# macOS system files
+.DS_Store
+*/.DS_Store
+
+# Backup files
+*_old.py
+*.bak
+
+# Documentation files
+*.md
